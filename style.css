@@ -1,0 +1,40 @@
+html, body, #wrapper { 
+    height:100%;
+    width: 100%;
+    margin: 0;
+    border: 0;
+    font-family: impact;
+}
+#wrapper td {
+    width: 50%;
+    padding: 2.5em;
+}
+#wrapper img {
+    vertical-align: middle;
+    text-align: left;
+    border-radius:50%;
+    height:20em;
+}
+#text {
+    vertical-align: middle;
+    text-align: right;
+    border-right: black 1px solid;
+    font-weight: bold;
+    font-style:italic;
+}
+a {
+    color: #444444;
+    text-decoration: none;
+    font-size: 2em;
+}
+a:hover {
+    font-style: normal;
+    text-decoration: underline;
+}
+#title {
+    font-size: 5em;
+}
+#intro {
+    font-size: 1.5em;
+}
+
